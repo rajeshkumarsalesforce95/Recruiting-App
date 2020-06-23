@@ -41,9 +41,5 @@
         <members>Zip_Code__c-Zip Code Layout</members>
         <name>Layout</name>
     </types>
-    <types>
-        <members>innovex_dev__Candidate__c.New_Job_App</members>
-        <name>QuickAction</name>
-    </types>
     <version>48.0</version>
 </Package>
