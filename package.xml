@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+
         <members>Recruiting_App</members>
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Candidate__c</members>
-        <members>Interviewer__c</members>
+
         <members>Job_Application__c</members>
         <members>Job_Posting_Site__c</members>
         <members>Job_Posting__c</members>
         <members>Position__c</members>
         <members>Review__c</members>
-        <members>Zip_Code__c</members>
+
         <name>CustomObject</name>
     </types>
     <types>
         <members>Candidate__c</members>
-        <members>Interviewer__c</members>
+
         <members>Job_Application__c</members>
         <members>Job_Posting_Site__c</members>
         <members>Position__c</members>
@@ -26,10 +26,7 @@
         <name>CustomTab</name>
     </types>
     <types>
-        <members>*</members>
-        <name>GlobalValueSet</name>
-    </types>
-    <types>
+
         <members>Candidate__c-Candidate Layout</members>
         <members>Interviewer__c-Interviewer Layout</members>
         <members>Job_Application__c-Job Application Layout</members>
@@ -39,6 +36,7 @@
         <members>Position__c-Technical Position Layout</members>
         <members>Review__c-Review Layout</members>
         <members>Zip_Code__c-Zip Code Layout</members>
+
         <name>Layout</name>
     </types>
     <version>48.0</version>
