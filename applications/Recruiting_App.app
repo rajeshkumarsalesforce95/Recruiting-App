@@ -12,6 +12,4 @@
     <tabs>Job_Posting_Site__c</tabs>
     <tabs>Review__c</tabs>
     <tabs>Zip_Code__c</tabs>
-    <tabs>ScoreSeekerResponseObj__c</tabs>
-    <tabs>Integration_Configuration__c</tabs>
 </CustomApplication>
